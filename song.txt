@@ -1,7 +1,1 @@
 "Song lyrics - First couplet" 
-<<<<<<< HEAD
-"Song lyrics - Second couplet" 
-"Song lyrics - Second couplet" 
-=======
-"Song lyrics - Third couplet" 
->>>>>>> third_couplet
